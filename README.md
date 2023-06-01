@@ -5,3 +5,7 @@
 ## #1 Arbeitszeit (TB 5/22)
 
 ![](05_22_Arbeitszeit.png)
+
+## #2 Inflation (TB 6/22)
+
+![](06_22_Inflation.png)
