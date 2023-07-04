@@ -1,6 +1,6 @@
 librarian::shelf(tidyverse, sf, scales)
 
-load("07_22_Hitzetage.RData")
+load("07_23_Hitzetage.RData")
 
 decadedat <- heatdays |> count(year, name, decade, .drop = FALSE) |> 
   summarise(n = mean(n), .by = c(name, decade))
@@ -32,4 +32,4 @@ plotdat |> ggplot(aes(fill = n)) +
         strip.text.x = element_blank(),
         legend.position = c(0.5,1.11))
 
-ggsave("07_22_Hitzetage.png", width = 8, height = 5, dpi = 320, bg = "white") 
+ggsave("07_23_Hitzetage.png", width = 8, height = 5, dpi = 320, bg = "white") 
