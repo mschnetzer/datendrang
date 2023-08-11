@@ -13,3 +13,7 @@
 ## #3 Hitzetage (TB 7-8/23)
 
 ![](07_23_Hitzetage.png)
+
+## #4 Bildungspersistenz (TB 9/23)
+
+![](08_23_Bildung.png)
