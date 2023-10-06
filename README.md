@@ -16,4 +16,8 @@
 
 ## #4 Bildungspersistenz (TB 9/23)
 
-![](08_23_Bildung.png)
+![](09_23_Bildung.png)
+
+## #5 Vermögen (TB 10/23)
+
+![](10_23_Vermögen.png)
