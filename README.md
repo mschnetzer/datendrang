@@ -21,3 +21,7 @@
 ## #5 Vermögen (TB 10/23)
 
 ![](10_23_Vermögen.png)
+
+## #6 KV-Abschluss (TB 11/23)
+
+![](11_23_KV-Abschluss.png)
