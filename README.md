@@ -25,3 +25,7 @@
 ## #6 KV-Abschluss (TB 11/23)
 
 ![](11_23_KV-Abschluss.png)
+
+## #7 Energiearmut (TB 12/23)
+
+![](12_23_Energiearmut.png)
