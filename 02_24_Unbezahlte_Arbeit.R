@@ -65,7 +65,7 @@ reduceddata |> pivot_longer(cols = c(female, male),
                                                         family = "Roboto Condensed"))) +
   coord_flip() +
   labs(x = NULL, y = NULL,
-       title = "Unbezahlte Sorgearbeit ist weiblich",
+       title = "Unbezahlte Sorgearbeit ist überwiegend weiblich",
        subtitle = "Durchschnittliche Zeitverwendung pro Werktag für zusammengefasste Hauptaktivitäten",
        caption = "Quelle: Zeitverwendungserhebung 2021/22, Statistik Austria.") +
   theme_minimal(base_family = "Roboto Condensed", base_size = 14) +
