@@ -33,3 +33,7 @@
 ## #8 Unbezahlte Arbeit (TB 2/24)
 
 ![](02_24_Unbezahlte_Arbeit.png)
+
+## #9 Rekordgewinne im Bankensektor (TB 3/24)
+
+![](03_24_Bankengewinne.png)
