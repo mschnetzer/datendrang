@@ -37,3 +37,7 @@
 ## #9 Rekordgewinne im Bankensektor (TB 3/24)
 
 ![](03_24_Bankengewinne.png)
+
+## #10 Steuerflucht in Europa (TB 4/24)
+
+![](04_24_Steuerflucht.png)
