@@ -77,5 +77,5 @@ legend <- ggplot() +
 plot + inset_element(legend, left = 0, bottom = 0.7, right = 0.25, top = 1,
                      align_to = "panel", on_top = T)
 
-ggsave("KV-Abschluss.png", width = 8, height = 4, dpi = 320, bg = "white")
+ggsave("23_11_KV-Abschluss.png", width = 8, height = 4, dpi = 320, bg = "white")
 

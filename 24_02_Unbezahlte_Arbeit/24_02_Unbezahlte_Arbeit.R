@@ -81,4 +81,4 @@ reduceddata |> pivot_longer(cols = c(female, male),
         legend.position = "top",
         legend.margin = margin(b = -.3, unit = "cm"))
 
-ggsave("02_24_Unbezahlte_Arbeit.png", width = 8, height = 3.5, dpi = 320, bg = "white")
+ggsave("24_02_Unbezahlte_Arbeit.png", width = 8, height = 3.5, dpi = 320, bg = "white")

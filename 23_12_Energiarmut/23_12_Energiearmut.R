@@ -47,4 +47,4 @@ plotdata |>
         plot.caption = element_text(size = 6, margin = margin(t = 2, unit = "lines")),
         panel.spacing.x = unit(1.5, "lines"))
 
-ggsave(filename = "12_23_Energiearmut.png", width = 7, height = 4, dpi = 320, bg = "white")
+ggsave(filename = "23_12_Energiearmut.png", width = 7, height = 4, dpi = 320, bg = "white")

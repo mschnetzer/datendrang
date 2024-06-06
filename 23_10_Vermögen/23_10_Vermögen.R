@@ -76,5 +76,5 @@ ggplot(plotdf, aes(fill = labels, values = value)) +
         plot.title = element_text(margin = margin(b=6), family = "Playfair Display"),
         legend.title = element_blank()) +
   theme_enhance_waffle()
-ggsave("vermögen_waffles.png", dpi=320, width = 8, height = 4, bg = "white")
+ggsave("23_10_Vermögen.png", dpi=320, width = 8, height = 4, bg = "white")
 

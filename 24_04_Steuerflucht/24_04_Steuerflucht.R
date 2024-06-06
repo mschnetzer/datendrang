@@ -4,7 +4,7 @@ library(readxl)
 library(giscoR)
 library(countrycode)
 
-load("04_24_Steuerflucht.RData")
+load("24_04_Steuerflucht.RData")
 
 world_res10 <- gisco_get_countries(year = "2020", resolution = "10", 
                                    epsg = "3035")
@@ -56,5 +56,5 @@ eu_res10 |>
         legend.title = element_markdown(lineheight = 1.1, hjust = 0.5, size = 10),
         legend.text = element_text(size = 9))
 
-ggsave("04_24_Steuerflucht.png", width = 8, height = 5.9, dpi = 320, bg = "white")
+ggsave("24_04_Steuerflucht.png", width = 8, height = 5.9, dpi = 320, bg = "white")
 

@@ -1,7 +1,7 @@
 librarian::shelf(tidyverse, janitor, ggbump, MetBrewer)
 
 # Load inflation data
-load("06_23_Inflation.RData")
+load("23_06_Inflation.RData")
 
 # Set local language for month names
 Sys.setlocale(locale = "de_AT")
@@ -80,4 +80,4 @@ findat |>
         plot.background = element_rect(fill = "white", color = NA),
         panel.grid = element_blank())
 
-ggsave("06_23_Inflation.png", width = 8, height = 3.5, dpi = 320)
+ggsave("23_06_Inflation.png", width = 8, height = 3.5, dpi = 320)

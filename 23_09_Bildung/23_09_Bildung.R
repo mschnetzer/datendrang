@@ -53,4 +53,4 @@ df |> ggplot(aes(x = Generation, y = freq, stratum = Bildung, alluvium = Flow)) 
         axis.text = element_text(size = 14),
         axis.text.x = element_blank())
 
-ggsave(file = "09_23_Bildung.png", width = 7, height = 4, dpi=320, bg="white")
+ggsave(file = "23_09_Bildung.png", width = 7, height = 4, dpi=320, bg="white")

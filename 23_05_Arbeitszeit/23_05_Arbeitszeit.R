@@ -5,7 +5,7 @@ library(colorspace)
 library(ggtext)
 
 # Load data
-load("05_23_Arbeitszeit.RData")
+load("23_05_Arbeitszeit.RData")
 
 # Plot 1: Donut chart with relative shares
 plot1 <- data1 |> 
@@ -87,4 +87,4 @@ total <- plot1 + plot2 + plot_layout(widths = c(0.25, 0.75)) +
   plot_annotation(caption = "Daten: Mikrozensus 2022, Statistik Austria. Grafik: @matschnetzer") & 
   theme(plot.caption = element_text(size = 5, color = "gray40", family = "Robtoto Condensed"))
 
-ggsave(total, file = "05_23_Arbeitszeit.png", width = 8.5, height = 4, dpi = 600)
+ggsave(total, file = "23_05_Arbeitszeit.png", width = 8.5, height = 4, dpi = 600)

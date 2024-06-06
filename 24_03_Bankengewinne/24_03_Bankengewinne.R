@@ -49,4 +49,4 @@ aggquart |> ggplot(aes(x = quarter, y = value, color = factor(year))) +
         plot.caption = element_text(family = "Cabinet Grotesk", size = 8, 
                                     margin = margin(t = 2, unit = "lines")))
 
-ggsave("03_24_Bankengewinne.png", width = 8, height = 4.5, dpi = 320, bg = "white")
+ggsave("24_03_Bankengewinne.png", width = 8, height = 4.5, dpi = 320, bg = "white")
