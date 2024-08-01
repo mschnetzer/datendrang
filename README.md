@@ -41,3 +41,7 @@
 ## #10 Steuerflucht in Europa (TB 4/24)
 
 ![](24_04_Steuerflucht/24_04_Steuerflucht.png)
+
+## #10 Erbschaften (TB 5/24)
+
+![](24_05_Erbschaften/24_05_Erbschaften.png)
