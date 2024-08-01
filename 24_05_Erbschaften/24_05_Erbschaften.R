@@ -33,7 +33,7 @@ erbdist |> ggplot(aes(x = Perzentil, y = `Durchschnittliche Erbschaft`)) +
   scale_y_continuous(labels = scales::number_format(scale = 1/1e6,suffix = " Mio. €")) +
   scale_x_continuous(expand = c(0.04,0.05)) +
   scale_fill_identity() +
-  labs(x = "Perzentile der Erbschaftsverteilung", y = NULL) +
+  labs(x = "Durchschnittliche Erbschaft nach Perzentilen", y = NULL) +
   theme_minimal(base_family = "Roboto Condensed") +
   theme(legend.position = "none", 
         panel.grid.minor = element_blank(),
