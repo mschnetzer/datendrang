@@ -46,6 +46,6 @@
 
 ![](24_05_Erbschaften/24_05_Erbschaften.png)
 
-## #10 Warzeiten auf Arzttermin (TB 6/24)
+## #10 Wartezeiten auf Arzttermin (TB 6/24)
 
 ![](24_06_Wartezeiten/24_06_Wartezeiten.png)
