@@ -42,14 +42,14 @@
 
 ![](24_04_Steuerflucht/24_04_Steuerflucht.png)
 
-## #10 Erbschaften (TB 5/24)
+## #11 Erbschaften (TB 5/24)
 
 ![](24_05_Erbschaften/24_05_Erbschaften.png)
 
-## #10 Wartezeiten auf Arzttermin (TB 6/24)
+## #12 Wartezeiten auf Arzttermin (TB 6/24)
 
 ![](24_06_Wartezeiten/24_06_Wartezeiten.png)
 
-## #11 Nationalratswahl 2024 (TB 1/25)
+## #13 Nationalratswahl 2024 (TB 1/25)
 
 ![](25_01_Demokratie/25_01_Demokratie.png)
