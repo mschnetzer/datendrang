@@ -49,3 +49,7 @@
 ## #10 Wartezeiten auf Arzttermin (TB 6/24)
 
 ![](24_06_Wartezeiten/24_06_Wartezeiten.png)
+
+## #11 Nationalratswahl 2024 (TB 1/25)
+
+![](25_01_Demokratie/25_01_Demokratie.png)
