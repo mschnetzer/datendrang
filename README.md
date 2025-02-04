@@ -53,3 +53,7 @@
 ## #13 Nationalratswahl 2024 (TB 1/25)
 
 ![](25_01_Demokratie/25_01_Demokratie.png)
+
+## #14 Energiemix (TB 2/25)
+
+![](25_02_Energiemix/25_02_Energiemix.png)
