@@ -62,6 +62,6 @@
 
 ![](25_03_Exporte/25_03_Exporte.png)
 
-## #16 Budeget (TB 4/25)
+## #16 Budget (TB 4/25)
 
 ![](25_04_Budget/25_04_Budget.png)
