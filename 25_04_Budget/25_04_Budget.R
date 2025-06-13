@@ -62,4 +62,4 @@ fintab |>
   theme_void() +
   theme(legend.position = "none")
 
-ggsave("staatsausgaben.png", width = 12, height = 6, dpi = 320, bg = "white")
+ggsave("25_04_Budget.png", width = 12, height = 6, dpi = 320, bg = "white")
