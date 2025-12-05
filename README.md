@@ -69,3 +69,7 @@
 ## #17 Prognosefehler (TB 5/25)
 
 ![](25_05_Prognose/25_05_Prognose.png)
+
+## #18 Klimaschäden (TB 1/26)
+
+![](26_01_Klimaschaden/26_01_Klimaschaden.png)
