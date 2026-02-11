@@ -73,3 +73,7 @@
 ## #18 Klimaschäden (TB 1/26)
 
 ![](26_01_Klimaschaden/26_01_Klimaschaden.png)
+
+## #19 Gewalterfahrungen von Frauen (TB 2/26)
+
+![](26_02_Gewalt/26_02_Gewalt.png)
