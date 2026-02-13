@@ -70,10 +70,14 @@
 
 ![](25_05_Prognose/25_05_Prognose.png)
 
-## #18 Klimaschäden (TB 1/26)
+## #18 Teilzeit (TB 6/25)
+
+![](26_06_Teilzeit/25_06_Teilzeit.png)
+
+## #19 Klimaschäden (TB 1/26)
 
 ![](26_01_Klimaschaden/26_01_Klimaschaden.png)
 
-## #19 Gewalterfahrungen von Frauen (TB 2/26)
+## #20 Gewalterfahrungen von Frauen (TB 2/26)
 
 ![](26_02_Gewalt/26_02_Gewalt.png)
