@@ -72,7 +72,7 @@
 
 ## #18 Teilzeit (TB 6/25)
 
-![](26_06_Teilzeit/25_06_Teilzeit.png)
+![](25_06_Teilzeit/25_06_Teilzeit.png)
 
 ## #19 Klimaschäden (TB 1/26)
 
